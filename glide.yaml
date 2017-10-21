@@ -1,0 +1,5 @@
+package: github.com/leonj1/go-json-prettyprint
+import:
+- package: github.com/gorilla/mux
+- package: github.com/orcaman/concurrent-map
+- package: gopkg.in/natefinch/lumberjack.v2
